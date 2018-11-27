@@ -1,0 +1,3 @@
+{
+  "scriptFiles": ["runtime.js", "polyfills.js", "main.js"]
+}
